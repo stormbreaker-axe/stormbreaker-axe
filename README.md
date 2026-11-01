@@ -1,18 +1,16 @@
 <div align="center">
 
-<!-- ===== ANIMATED HEADER BANNER ===== -->
+<!-- HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24,30&height=220&section=header&text=stormbreaker-axe&fontSize=58&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Code%20%7C%20Create%20%7C%20Conquer&descSize=20&descAlignY=60&descColor=FFFFFF" width="100%"/>
 
-<!-- ===== TYPEWRITER EFFECT ===== -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=FF6B6B&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Full-Stack+Dev+%26+3D+Artist;Blender+%7C+Python+%7C+JavaScript+%7C+C;Turning+Ideas+into+Reality%2C+One+Commit+at+a+Time!" alt="Typing SVG" />
+<!-- TYPEWRITER — single rotating lines (no multiline, no alignment issues) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Full-Stack+Dev+%26+3D+Artist+%F0%9F%8C%A9%EF%B8%8F;Blender+%7C+Python+%7C+JavaScript+%7C+C+%F0%9F%8E%A8;Turning+Ideas+into+Reality+%E2%9A%A1;One+Commit+at+a+Time+%F0%9F%9A%80" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
-<!-- ===== BADGES ===== -->
+<!-- BADGES — no &nbsp; drift, just line breaks -->
 <img src="https://komarev.com/ghpvc/?username=stormbreaker-axe&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
-&nbsp;
 <img src="https://img.shields.io/github/followers/stormbreaker-axe?style=for-the-badge&color=ff69b4&label=FOLLOWERS&logo=github&logoColor=white" />
-&nbsp;
 <img src="https://img.shields.io/badge/Open%20To-Collabs%20%26%20Projects-00C853?style=for-the-badge&logo=handshake&logoColor=white"/>
 
 </div>
@@ -23,7 +21,8 @@
 
 ## ⚡ About Me
 
-<table>
+<!-- TABLE layout for proper GIF alignment -->
+<table width="100%">
 <tr>
 <td valign="top" width="55%">
 
@@ -47,7 +46,7 @@ fun_fact: >
 ```
 
 </td>
-<td valign="top" width="45%" align="center">
+<td valign="middle" width="45%" align="center">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 
@@ -61,7 +60,7 @@ fun_fact: >
 
 <div align="center">
 
-### 💻 Languages I Speak
+### 💻 Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -74,9 +73,9 @@ fun_fact: >
 
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
-### ⚙️ Dev Tools & Platforms
+### ⚙️ Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -126,11 +125,11 @@ fun_fact: >
 
 ---
 
-## 🏆 GitHub Trophies
+## 😂 Random Dev Joke
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=stormbreaker-axe&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" width="95%" />
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" width="70%" />
 
 </div>
 
@@ -139,7 +138,9 @@ fun_fact: >
 ## 💬 Dev Quote of the Day
 
 <div align="center">
+
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
+
 </div>
 
 ---
@@ -149,9 +150,7 @@ fun_fact: >
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-stormbreaker--axe-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stormbreaker-axe)
-&nbsp;
 [![Twitter](https://img.shields.io/badge/Twitter-Coming_Soon-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
-&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](#)
 
 <br/>
